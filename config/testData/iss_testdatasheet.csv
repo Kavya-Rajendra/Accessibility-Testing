@@ -1,0 +1,4 @@
+dataSpecific,userName,passWord,url,pageName
+user1,,,https://www.amazon.co.uk/,HomePage
+user2,,,https://www.amazon.co.uk/,HomePage
+user3,,,http://appduv5515.ibmsl.cloud.test.group:8084/,HomePage
